@@ -1,21 +1,7 @@
-function txtchange1() {
+function txtchange69() {
   document.getElementById('txt1').innerHTML = 'ナンバーワン！';
 }
-
-function imgchange1() {
-  document.getElementById('logo').src = './image/onepiece06_chooperⅠ.png';
+ 
+function imgchange69() {
+  document.getElementById('logo').src = './image/josai.png';
 }
-function show_innerHTMLtxt1(){
-	var result1 = document.getElementById('txt1').innerHTML;
-    alert(result1);
-}
-
-function show_innerHTML(){
-	var result = document.getElementById('logo').innerHTML;
-    alert(result);
-}
-
-// do not work
-// function imgchange2() {
-//   document.getElementById('logo').innerHTML = './image/onepiece06_Ⅱ.png';
-// }
