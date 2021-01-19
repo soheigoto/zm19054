@@ -3,5 +3,5 @@ function txtchange69() {
 }
  
 function imgchange69() {
-  document.getElementById('logo').src = './image/josailogo.png';
+  document.getElementById('logo').src = './image/josai.png';
 }
